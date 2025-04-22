@@ -2,6 +2,12 @@
 
 ### I'm a java developer
 
+### Contacts:
+- email: kirichenkods@ya.ru
+- <a href="https://t.me/kirichenkods">
+  <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="20" height="20"/>
+</a>
+
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="java" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title="spring" width="50" height="50"/>&nbsp;
